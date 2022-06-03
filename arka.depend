@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1652834020 source:c:\users\alumno\documents\arcade\arka\main.cpp
+	<allegro.h>
+	<string.h>
+	<conio.h>
+	<sstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<winalleg.h>
+	<fstream>
+
+1654259534 source:c:\users\alumno\documents\arcade\main.cpp
+	<allegro.h>
+	<string>
+	<conio.h>
+	<sstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<winalleg.h>
+	<fstream>
+
